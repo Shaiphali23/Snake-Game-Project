@@ -1,2 +1,2 @@
 # Snake-Game-Project
-This is my first Git Repository
+This is a Snake Game using HTML CSS & javaScript !!
